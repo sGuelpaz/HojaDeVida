@@ -1,0 +1,49 @@
+
+
+.text-shadow{
+    text-shadow: 0 3px 3px rgba(0,0,0,0.6);
+}
+
+.navbar{
+    z-index: 1;
+    height: 70px;
+    background-color: #ff6b00;
+    border: 3px outset #ff6b00;
+}
+
+
+
+#separator-ribbon{
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    z-index: 2;
+}
+
+#separator-ribbon .content{
+    width: 150%;
+    height: 10px;
+    margin-left: -25%;
+    background-color: #ff6b00;
+    margin-bottom: 2px solid black;
+   
+}
+
+
+.accordion-button{
+    border-bottom: 3px dashed #ff6b00;
+}
+
+
+.accordion-collapse{
+    background-color:rgba(255, 107, 0, 0.3);
+}
+
+#footer{
+    
+    position: relative; left: 0; bottom: 10; width: 100%;;
+    color:white;
+    background-color: #ff6b00;
+    border: 3px inset #ff6b00;
+    text-shadow: 2px 2px 2px black;
+}
