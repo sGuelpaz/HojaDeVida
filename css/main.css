@@ -4,6 +4,10 @@
     text-shadow: 0 3px 3px rgba(0,0,0,0.6);
 }
 
+.hundred{
+    height: 100%;
+}
+
 .navbar{
     z-index: 1;
     height: 70px;
@@ -12,6 +16,10 @@
 }
 
 
+body{
+    height: 100%;
+    width: 100%;
+}
 
 #separator-ribbon{
     width: 100%;
